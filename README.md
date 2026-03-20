@@ -1,14 +1,23 @@
-# 👋 Hi, I’m Francesco Guarino 
+# 👋 Hi, I’m Francesco Guarino
 
-Software Engineer | Backend & Full‑Stack Developer | Automation Specialist | Blockchain & Data Visualization
+Software Engineer | FinTech & Blockchain | Automation & Data Visualization
 
-Welcome to my GitHub profile! I build real‑world software, tools, automation systems, bots and data visualizations. Here you’ll find a curated collection of personal and side‑projects that go beyond my day‑to‑day work, showing my passion for coding, architecture, automation and problem‑solving.
+Welcome to my GitHub! I build **complex software systems, financial tools, and blockchain applications**. Here you’ll find projects that showcase both my professional expertise and personal experimentation in **high-complexity architectures, automation, and interactive analytics**.
 
 ---
 
-## 🚀 Core Competencies
+### 💼 FinTech & Banking Expertise
 
-I excel in:
+I have hands-on experience with **financial systems** and **complex backend architectures**, including:
+
+- **Payment Systems & Ledgers:** authentication, capture, release operations, transaction flow  
+- **Wallets & Microtransactions:** designing and integrating wallets, handling microtransactions safely  
+- **Blockchain Integration:** smart contracts, decentralized exchanges, crypto trading, arbitrage  
+- **Financial Compliance & Reporting:** understanding of KYC/AML flows, auditing, transaction tracking  
+- **Complex System Design:** modular, distributed architectures, message/event-driven systems
+
+> I combine my knowledge of finance with software engineering to **design scalable and robust solutions** for modern banking and crypto ecosystems.
+
 
 ### 🧠 Software Development & Architecture
 - **Backend & Full‑Stack**: Node.js, JavaScript (ES6+), Vue.js, REST APIs  
@@ -19,11 +28,6 @@ I excel in:
 - **Automation frameworks**: scripts and services in Node.js and Python  
 - **Algorithmic tools**: bot logic and automation decision engines  
 - **DevOps & workflow tooling**: modular automation, scheduling, CI/CD
-
-### 💰 Blockchain & FinTech
-- Integrations with decentralized protocols and smart contracts  
-- Tools for automated trading, arbitrage detection and execution  
-- Understanding of blockchain data flows, wallets, and ledgers
 
 ### 📊 Data Analysis & Visualization
 - **Interactive dashboards** and graphs driven by real data  
