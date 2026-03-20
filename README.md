@@ -111,7 +111,6 @@ Whether I'm building backend services, automation bots, or interactive charts, t
 
 - 🌐 GitHub – https://github.com/francescoguarino  
 - 💼 LinkedIn – https://www.linkedin.com/in/francesco-guarino-598647332
-- 📫 Email / Portfolio / Resume – *Add links here if desired*
 
 ---
 
