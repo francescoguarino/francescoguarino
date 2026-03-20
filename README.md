@@ -1,62 +1,115 @@
-# 👋 Hi, I'm Francesco Guarino
+# 👋 Hi, I’m Francesco Guarino 
 
-Software Engineer | Automation Enthusiast | Blockchain & FinTech | Data Visualization
+Software Engineer | Backend & Full‑Stack Developer | Automation Specialist | Blockchain & Data Visualization
 
-Welcome to my GitHub! Here you'll find **personal projects, experiments, and professional work** that showcase my skills in software development, automation, blockchain, and data analytics.
-
----
-
-## 💻 What I Do
-
-I work on **end-to-end software solutions**, from backend development to data visualization and automation, including:
-
-- **Web & Backend Development:** Node.js, JavaScript, Python, Vue.js, REST APIs, MongoDB  
-- **Automation & Bots:** Cryptocurrency arbitrage bots, workflow automation, microservices  
-- **Blockchain & FinTech:** Payment systems, ledger management, smart contracts, microtransactions  
-- **Data Analysis & Visualization:** Interactive dashboards, charts, analytics for business insights  
-- **DevOps & Tools:** Git/GitHub, CI/CD, modular code architecture, testing, documentation  
-
-I combine my professional experience with **personal projects** to explore new technologies, optimize workflows, and create real-world solutions.
+Welcome to my GitHub profile! I build real‑world software, tools, automation systems, bots and data visualizations. Here you’ll find a curated collection of personal and side‑projects that go beyond my day‑to‑day work, showing my passion for coding, architecture, automation and problem‑solving.
 
 ---
 
-## 🔧 Skills & Technologies
+## 🚀 Core Competencies
 
-| Area | Skills |
-|------|-------|
-| Programming | JavaScript, Node.js, Python, SQL, MongoDB |
-| Web Development | Vue.js, REST APIs, Web Automation |
-| Blockchain & Crypto | Ethereum, Uniswap, Smart Contracts, Payment Systems |
-| Data & Visualization | D3.js, Chart.js, Interactive Dashboards, Data Analysis |
-| Tools & DevOps | Git/GitHub, Docker, CI/CD, Modular Architecture |
+I excel in:
+
+### 🧠 Software Development & Architecture
+- **Backend & Full‑Stack**: Node.js, JavaScript (ES6+), Vue.js, REST APIs  
+- **Programming languages**: JavaScript, Python, SQL, TypeScript  
+- **Databases**: MongoDB, relational and NoSQL databases  
+
+### ⚙️ Automation & Bots
+- **Automation frameworks**: scripts and services in Node.js and Python  
+- **Algorithmic tools**: bot logic and automation decision engines  
+- **DevOps & workflow tooling**: modular automation, scheduling, CI/CD
+
+### 💰 Blockchain & FinTech
+- Integrations with decentralized protocols and smart contracts  
+- Tools for automated trading, arbitrage detection and execution  
+- Understanding of blockchain data flows, wallets, and ledgers
+
+### 📊 Data Analysis & Visualization
+- **Interactive dashboards** and graphs driven by real data  
+- Libraries like D3.js, Chart.js and front‑end data binding  
+- Translating data into insights through clear visuals
+
+### 🛠️ Tools, Testing & Deployment
+- Version control with **Git & GitHub**
+- Project structuring, modular codebases and maintainable architecture
+- Automated testing, deployment pipelines and documentation
 
 ---
 
-## 🌟 Featured Projects
+## 🔧 Highlighted Projects
 
-### 🧠 Arbitrage Bot
-Automated crypto trading bot for Uniswap/SushiSwap pools.  
-- **Tech:** Node.js, JavaScript, Web3.js  
-- Implements profit calculation, flash loans, automatic execution.  
-[Explore on GitHub](https://github.com/francescoguarino)
+Below are some standout public repositories from my GitHub — each demonstrates a core skill set or real‑world application of technical knowledge.
 
-### 🐍 Python Tools
-Scripting and automation projects for data processing and workflows.  
-- **Tech:** Python, Pandas, Requests  
-- Focus on modular, reusable, maintainable code.
+### 🪙 **Automated Arbitrage Bot**
+An automated cryptocurrency trading bot that detects price inefficiencies between pools and executes trades to capture arbitrage opportunities.
 
-### 📊 Interactive Dashboards
-Data visualization projects with dynamic charts and dashboards for business insights.  
-- **Tech:** D3.js, Chart.js, HTML/CSS  
-- Combines backend data with front-end interactive graphs.
+- **Tech:** Node.js, JavaScript, on‑chain integration  
+- **Features:**  
+  - Real‑time scanning across liquidity pools  
+  - Profitability calculation and automated execution  
+  - Modular execution pipeline
+
+👉 Shows advanced automation, API integration and async logic.
+
+---
+
+### 🐍 **Python Utility Projects**
+Several Python scripts and small packages designed for automation, tooling and data manipulation:
+
+- **Code organization:** modular structure
+- **Use cases:** data parsing, API wrappers, task automation
+- **Principles:** readable, reusable, testable
+
+👉 Demonstrates Python fluency and utility scripting.
+
+---
+
+### 📊 **Interactive Visualization Dashboards**
+Full front‑end projects that combine real data with interactive charting:
+
+- **Stack:** Vue.js + Chart.js and D3.js
+- **Purpose:** turn backend data into meaningful visual insights
+- **Elements:** filters, dynamic updates, responsive UI
+
+👉 These dashboards turn business or analytics data into narratives you can explore visually.
+
+---
+
+## 🧩 Technical Stack
+
+| Layer | Technologies |
+|-------|--------------|
+| Languages | JavaScript, Python, TypeScript |
+| Web Dev | Node.js, Express, Vue.js |
+| Data & APIs | REST, WebSockets |
+| Databases | MongoDB, SQL/NoSQL Concepts |
+| Blockchain | Web3 integrations, wallet & trading logic |
+| Visualization | D3.js, Chart.js, reusable UI components |
+| Tools | Git, GitHub, CI/CD workflows, modular architecture |
+
+---
+
+## 💡 Philosophy & Approach
+
+My development philosophy centers on writing **clean, maintainable, and modular code** that solves real problems. I build systems that are:
+
+- **Readable** – for myself and collaborators  
+- **Reusable** – components that work across projects  
+- **Testable** – dependable and stable  
+- **Documented** – easy to understand and contribute to
+
+Whether I'm building backend services, automation bots, or interactive charts, the goal is always the same: deliver **high‑quality software** that scales and adapts.
 
 ---
 
 ## 🔗 Connect with Me
 
-- [GitHub](https://github.com/francescoguarino) – Explore my repositories  
-- [LinkedIn](https://www.linkedin.com/in/francescoguarino) – Professional profile  
+- 🌐 GitHub – https://github.com/francescoguarino  
+- 💼 LinkedIn – https://www.linkedin.com/in/francesco-guarino  
+- 📫 Email / Portfolio / Resume – *Add links here if desired*
 
 ---
 
-> “I build software that works in the real world, from automation and blockchain to interactive data visualizations. Learning never stops, and every project is an opportunity to improve and explore.”
+> 🚀 I’m always exploring new technologies, improving workflows, and building tools that make software more efficient, more insightful and more impactful.
+
